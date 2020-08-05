@@ -2,6 +2,8 @@
 
 My Name is Robert Kozak and I an a DevOps Architect at Emburse.
 
+[![Twitter](https://img.shields.io/twitter/follow/:robertkozak.svg?style=social&label=@:robertkozak)](https://twitter.com/:robertkozak)
+
 [![Robert's github stats](https://github-readme-stats.vercel.app/api?username=RobertKozak&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertKozak)](https://github.com/anuraghazra/github-readme-stats)
