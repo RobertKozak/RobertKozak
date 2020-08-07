@@ -2,7 +2,7 @@
 
 My Name is Robert Kozak and I am a DevOps Architect at Emburse.
 
-![](./images/containers.png)
+![](./container-docker.jpg)
 
 [![Twitter](https://img.shields.io/twitter/follow/robertkozak.svg?style=social&label=@robertkozak)](https://twitter.com/robertkozak)
 
