@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Robert Kozak and I am a DevOps Architect II at Emburse.
+My Name is Robert Kozak
 
 Certified Kubernetes Admin (CKA), Certified Kubernetes Application Developer (CKAD), DevOps, cloud containerization operations and administration. Kubernetes expert since version 1.4. AI/LLM enthusiast #finops #security #AI #kubernetes #pipelines
 
